@@ -3,7 +3,7 @@ related to the paper, " An equation-of-state-meter of
 quantum chromodynamics transition from deep learning "
 by Long-gang Pang et.al.
 
-The was made available by the authors here 
+The data was made available by the authors here 
 <https://doi.org/10.6084/m9.figshare.5457220.v1>.
 The dataset consists of training and test data, where 
 each 45 x 18 \rho(p_t, \phi) is flattened out as rows 
